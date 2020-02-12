@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+   <DestBasePath>D:\2</DestBasePath>
+   <SourceBasePath>E:\PersonalCode\Handle\徐帅\AFS Excel 文件</SourceBasePath>
+   <BaselineFilePath>D:\2</BaselineFilePath>
+   <MatFilePath>E:\DNA\CTrap\</MatFilePath>
+   <Para>
+      <F_StageMode>0</F_StageMode>
+      <WLC_Model_Index>2</WLC_Model_Index>
+      <PSDMode>2</PSDMode>
+      <F_StandardDataMaxValue>60</F_StandardDataMaxValue>
+      <Factor>390</Factor>
+      <Stiffness1>461.386</Stiffness1>
+      <RTI>1</RTI>
+   </Para>
+    <BC_Para>
+        <P1>-0.030123801</P1>
+        <P2>-0.65892519</P2>
+        <P3>1.3675103</P3>
+        <P4>0.60295281</P4>
+        <P5>-1.6563946</P5>
+        <P6>0.091992994</P6>
+        <P7>-0.5688122</P7>
+        <Mean>1119.9753</Mean>
+        <Std>584.07322</Std>
+    </BC_Para>
+    <WLC_Handle_1>
+      <L0>1000</L0>
+      <Lp>43.3</Lp>
+   </WLC_Handle_1>
+   <WLC_Polymer_1>
+      <L0>38</L0>
+      <Lp>1</Lp>
+   </WLC_Polymer_1>
+  <WLC_Handle_2>
+      <L0>1000</L0>
+      <Lp>42</Lp>
+      <K>1296</K>
+   </WLC_Handle_2>
+   <WLC_Polymer_2>
+      <L0>0</L0>
+      <Lp>1</Lp>
+      <K>700</K>
+   </WLC_Polymer_2>
+      <WLC_Handle_3>
+      <L0>1000</L0>
+      <Lp>43.3</Lp>
+      <K>1246</K>
+   </WLC_Handle_3>
+   <WLC_Polymer_3>
+      <L0>223.02</L0>
+      <Lp>2</Lp>
+      <K>300</K>
+   </WLC_Polymer_3>
+</info>
